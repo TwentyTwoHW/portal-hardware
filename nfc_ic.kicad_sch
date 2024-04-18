@@ -686,7 +686,7 @@
     (property "Reference" "U3" (at 144.78 78.2152 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "NT3H2X11" (at 144.78 80.7521 0)
+    (property "Value" "NT3H2111W0FT1X" (at 144.78 80.7521 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Footprints:SOT96-1" (at 144.78 66.675 0)

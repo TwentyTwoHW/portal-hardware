@@ -1709,7 +1709,7 @@
     (property "Reference" "U2" (at 71.8694 123.3154 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "STM32L476RGTx" (at 73.66 32.385 0)
+    (property "Value" "STM32L476RGT6" (at 73.66 32.385 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Package_QFP:LQFP-64_10x10mm_P0.5mm" (at 49.53 121.285 0)

@@ -1264,7 +1264,7 @@
     (property "Reference" "U4" (at 145.415 67.471 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "SSD1306" (at 145.415 70.0079 0)
+    (property "Value" "ER-OLED0.96-1W" (at 145.415 70.0079 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "Footprints:OLED-128O064D-WITH-FP" (at 145.415 120.65 0)

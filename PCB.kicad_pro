@@ -56,7 +56,14 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "clearance|103114997|124499509|c181756e-0ab6-4984-9cf0-9f4092e4310a|45fd64fb-c35c-4771-a735-e4fb8e39aa43",
+        "clearance|107239985|124529636|e3060390-d1b4-4fe8-bdeb-7148dd754b7b|f126028a-f36b-45f2-aa12-b885a7f9103f",
+        "clearance|107570000|124400000|e3060390-d1b4-4fe8-bdeb-7148dd754b7b|28f43520-c51f-4177-ab0f-44347928c632",
+        "clearance|107570000|124400000|e3060390-d1b4-4fe8-bdeb-7148dd754b7b|c711f8bf-14df-4f8b-b86a-0348cad9287b",
+        "footprint_type_mismatch|82675000|124500000|f6f31214-0c1c-44f0-9c88-e5d58d22f074|00000000-0000-0000-0000-000000000000",
+        "solder_mask_bridge|103114997|124499509|45fd64fb-c35c-4771-a735-e4fb8e39aa43|c181756e-0ab6-4984-9cf0-9f4092e4310a"
+      ],
       "meta": {
         "version": 2
       },
@@ -449,7 +456,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "PCB.step",
+      "step": "../../../../../dev/shm/export-pcb/PCB.step",
       "vrml": "../../../../../dev/shm/export-pcb/PCB.wrl"
     },
     "page_layout_descr_file": ""
